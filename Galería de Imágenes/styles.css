@@ -22,3 +22,6 @@ body {
     background-color:lightblue;
     box-shadow: none;
 }
+h1 {
+    text-decoration: underline;
+  }
