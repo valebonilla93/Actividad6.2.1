@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: lightgray;
 }
 
 .image{
@@ -11,9 +11,13 @@ body {
 .link-button {
     text-decoration: none;
     color: black;
-    border: 1px solid gray;
+    border: 1px solid black;
     background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
-    box-shadow: 2px 3px #888888;
+    box-shadow: 2px 3px black;
+}
+.link-button:hover{
+    background-color:lightblue;
+    box-shadow: none;
 }
